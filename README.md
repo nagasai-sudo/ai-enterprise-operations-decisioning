@@ -36,8 +36,8 @@ reporting period and surface the result to a human analyst with supporting evide
 The threshold was selected using the validation set only. The test set was then used for final evaluation.
 
 See:
-- `step3_model_comparison.csv`
-- `step3_anomaly_evaluation.csv`
+- `model_comparison.csv`
+- `anomaly_evaluation.csv`
 
 Because this is synthetic proof-of-concept data and the positive test class is small,
 the metrics must not be interpreted as production performance.
